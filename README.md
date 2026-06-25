@@ -14,13 +14,13 @@
 
 ```python
 class RootyNinja:
-    Name       = "Ali Hassan"
-    Alias      = "RootyNinja"
-    Focus      = ["AI", "ML", "Reinforcement Learning", "Game Dev"]
+    name       = "Ali Hassan"
+    alias      = "RootyNinja"
+    focus      = ["AI", "ML", "Reinforcement Learning", "Game Dev"]
     languages  = ["Python", "C#", "HTML", "CSS", "Flutter"]
-    Tools      = ["Unity", "TensorFlow", "Git"]
-    Status     = "learning, building, exploring."
-    Motto      = "training agents. shipping games. exploring the rest."
+    tools      = ["Unity", "TensorFlow", "Git"]
+    status     = "learning, building, exploring."
+    motto      = "training agents. shipping games. exploring the rest."
 ```
 
 ---
