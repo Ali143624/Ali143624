@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+%2C+I'm+Ali+Hassan;AKA+RootyNinja;AI+%7C+ML+%7C+Reinforcement+Learning;Game+Dev+with+Unity+%26+C%23;Building+things+that+learn.;always+in+the+loop." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+%2C+I'm+Ali+Hassan;AKA+RootyNinja;AI+%7C+ML+%7C+Reinforcement+Learning;Game+Dev+with+Unity+%26+C%23;Building+things+that+learn.;Always+in+the+loop." alt="Typing SVG" />
 
 <br/>
 
@@ -13,14 +13,13 @@
 ### `whoami`
 
 ```python
-class RootyNinja:
-    name       = "Ali Hassan"
-    alias      = "RootyNinja"
-    focus      = ["AI", "ML", "Reinforcement Learning", "Game Dev"]
-    languages  = ["Python", "C#", "HTML", "CSS", "Flutter"]
-    tools      = ["Unity", "TensorFlow", "Git"]
-    status     = "learning, building, exploring."
-    motto      = "training agents. shipping games. exploring the rest."
+    Name       = "Ali Hassan"
+    Alias      = "RootyNinja"
+    Focus      = ["AI", "ML", "Reinforcement Learning", "Game Dev"]
+    Languages  = ["Python", "C++", "C#", "Java", "HTML", "CSS", "Flutter"]
+    Tools      = ["Unity", "TensorFlow", "Git"]
+    Status     = "learning, building, exploring."
+    Motto      = "training agents. shipping games. exploring the rest."
 ```
 
 ---
